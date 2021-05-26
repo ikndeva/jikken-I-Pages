@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "asax02.neo", "index.html", [
+  [ "CSIT Jikken-I-src", "index.html", [
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
