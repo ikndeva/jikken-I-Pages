@@ -1,0 +1,4 @@
+<map id="JankenPlayer" name="JankenPlayer">
+<area shape="rect" id="node1" title=" " alt="" coords="24,5,125,32"/>
+<area shape="rect" id="node2" href="$class_janken_player_type_b.html" title=" " alt="" coords="5,80,144,107"/>
+</map>
